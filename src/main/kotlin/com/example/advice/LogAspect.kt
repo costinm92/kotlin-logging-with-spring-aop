@@ -1,4 +1,4 @@
-package com.example.aop
+package com.example.advice
 
 import mu.KotlinLogging
 import org.aspectj.lang.ProceedingJoinPoint

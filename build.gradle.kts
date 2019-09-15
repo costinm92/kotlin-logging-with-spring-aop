@@ -8,8 +8,8 @@ plugins {
 	kotlin("plugin.spring") version "1.3.41"
 }
 
-group = "com.cm"
-version = "0.0.1-SNAPSHOT"
+group = "com.example"
+version = "1.0"
 java.sourceCompatibility = JavaVersion.VERSION_1_8
 
 repositories {
