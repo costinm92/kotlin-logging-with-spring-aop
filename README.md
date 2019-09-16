@@ -1,7 +1,7 @@
 # Kotlin logging with Spring AOP
 
 ## Why use AOP
-AOP is a programming paradigm that increases the modularity of a project. It achieves that by separating (or, better, allowing the separation of) the cross-cutting concerns.
+AOP (Aspect-Oriented Programming) is a programming paradigm that increases the modularity of a project. It achieves that by separating (or, better, allowing the separation of) the cross-cutting concerns.
 A cross-cutting concern is a concern that can affect the whole application and should be centralized in one location in code as possible, such as logging, authentication, etc.
 With this in mind, AOP provides the right tools to get rid of the boilerplate code from your project.
 While the key unit of modularity in OOP is the class, in AOP it’s the aspect.
