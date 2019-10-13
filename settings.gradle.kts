@@ -12,4 +12,4 @@ pluginManagement {
 		}
 	}
 }
-rootProject.name = "spring-rx-logging"
+rootProject.name = "kotlin-logging-with-spring-aop"
